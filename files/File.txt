@@ -1,0 +1,7 @@
+name age
+alice 21
+ryan 30
+frenk 16
+Vlad 18
+Lisa 33
+david 44
